@@ -1,0 +1,1 @@
+{"description":"make.fun bounty entry: one funny line, written to /output/entry.txt","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"make-the-judge-laugh-in-one-line","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
